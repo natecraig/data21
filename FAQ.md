@@ -3,7 +3,7 @@
 -   [What Excel tutorials do you recommend?](#what-excel-tutorials-do-you-recommend)
 -   [How do I move to the top of a selected range in Excel?](#how-do-i-move-to-the-top-of-a-selected-range-in-excel)
 -   [How do I clear the contents of a range in Excel for Mac?](#how-do-i-clear-the-contents-of-a-range-in-excel-for-mac)
--   [Can you recommend authors to follow for the topic of technology and organization design?](#can-you-recommend-authors-to-follow-for-the-topic-of-technology-and-organization-design)
+-   [Can you recommend authors to follow for the topic of technology innovation and organization design?](#can-you-recommend-authors-to-follow-for-the-topic-of-technology-innovation-and-organization-design)
 -   [How can I access Tableau?](#how-can-i-access-tableau)
 -   [How can I get started with Python?](#how-can-i-get-started-with-python)
 -   [How can I get started with R?](#how-can-i-get-started-with-r)
@@ -27,7 +27,7 @@ After selecting a range (for example, with `Ctrl+Shift+Down`), press `Enter` to 
 
 Select the range, then press `fn+Delete`.
 
-## Can you recommend authors to follow for the topic of technology and organization design?
+## Can you recommend authors to follow for the topic of technology innovation and organization design?
 
 Each of these authors regularly publishes interesting articles or books on the topic:
 
