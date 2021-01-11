@@ -9,6 +9,8 @@ Competing in a Data-driven World](https://www.mckinsey.com/~/media/McKinsey/Busi
 - [Data Science in MBA Programs: Rosy Job Prospects](https://find-mba.com/articles/data-science-in-mba-programs-rosy-job-prospects)
 - [Regulating the internet giants - The world’s most valuable resource is no longer oil, but data](https://www.economist.com/leaders/2017/05/06/the-worlds-most-valuable-resource-is-no-longer-oil-but-data)
 - [How Amazon advertising works](https://www.cnbc.com/2019/07/17/how-amazon-advertising-works.html)
+- [Catch them if you can: How leaders in data and analytics have pulled ahead](https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/McKinsey%20Analytics/Our%20Insights/Catch%20them%20if%20you%20can%20How%20leaders%20in%20data%20and%20analytics%20have%20pulled%20ahead/Catch-them-if-you-can-How-leaders-in-data-and-analytics-have-pulled-ahead.ashx)
+- [Enterprise Tech Efforts Move Beyond Survival Mode](https://www.wsj.com/articles/enterprise-tech-efforts-move-beyond-survival-mode-11600899520)
 
 ## Capabilities and Performance of Business Executives
 - [Developing Executive Leaders: The Relative Contribution Of Cognitive Ability, Personality, And The Accumulation Of Work Experience In Predicting Strategic Thinking Competency](https://www.researchgate.net/publication/230539053_Developing_Executive_Leaders_The_Relative_Contribution_Of_Cognitive_Ability_Personality_And_The_Accumulation_Of_Work_Experience_In_Predicting_Strategic_Thinking_Competency)
