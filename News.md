@@ -3,7 +3,7 @@
 - [The Dark Past of Algorithms That Associate Appearance and Criminality.](https://www.americanscientist.org/article/the-dark-past-of-algorithms-that-associate-appearance-and-criminality) American Scientist
 - [Jumbled-up sentences show that AIs still don’t really understand language.](https://www.technologyreview.com/2021/01/12/1016031/jumbled-up-sentences-ai-doesnt-understand-language-nlp-bert-fix/) MIT Technology Review
 - [Seeing Like an Algorithm](https://www.eugenewei.com/blog/2020/9/18/seeing-like-an-algorithm)
-- [The global AI agenda: Promise, reality, and a future of data sharing](https://www.technologyreview.com/2020/03/26/950287/the-global-ai-agenda-promise-reality-and-a-future-of-data-sharing/).
+- [The global AI agenda: Promise, reality, and a future of data sharing.](https://www.technologyreview.com/2020/03/26/950287/the-global-ai-agenda-promise-reality-and-a-future-of-data-sharing/) MIT Technology Review
 - [He Created the Web. Now He’s Out to Remake the Digital World.](https://www.nytimes.com/2021/01/10/technology/tim-berners-lee-privacy-internet.html) NYT
 - [Artificial Intelligence Will Do What We Ask. That’s a Problem.](https://www.quantamagazine.org/artificial-intelligence-will-do-what-we-ask-thats-a-problem-20200130/) Quanta
 - [Ditching Excel for Python – Lessons Learned from a Legacy Industry](https://amypeniston.com/ditching-excel-for-python/)
