@@ -1,4 +1,5 @@
 # News and Optional Articles
+- [Tech Companies Are Profiling Us From Before Birth.](https://thereader.mitpress.mit.edu/tech-companies-are-profiling-us-from-before-birth/) MIT Press Reader
 - [A Visual History of Interpretation for Image Recognition.](https://thegradient.pub/a-visual-history-of-interpretation-for-image-recognition/) The Gradient
 - [The Dark Past of Algorithms That Associate Appearance and Criminality.](https://www.americanscientist.org/article/the-dark-past-of-algorithms-that-associate-appearance-and-criminality) American Scientist
 - [Jumbled-up sentences show that AIs still don’t really understand language.](https://www.technologyreview.com/2021/01/12/1016031/jumbled-up-sentences-ai-doesnt-understand-language-nlp-bert-fix/) MIT Technology Review
