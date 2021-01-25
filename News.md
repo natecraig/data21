@@ -1,6 +1,6 @@
 # News and Optional Articles
-- [Palantir’s God’s-Eye View of Afghanistan](https://www.wired.com/story/palantirs-gods-eye-view-of-afghanistan/)
-- [This X Does Not Exist](https://thisxdoesnotexist.com)
+- [Palantir’s God’s-Eye View of Afghanistan.](https://www.wired.com/story/palantirs-gods-eye-view-of-afghanistan/)
+- [This X Does Not Exist](https://thisxdoesnotexist.com) Wired
 - [Tech Companies Are Profiling Us From Before Birth.](https://thereader.mitpress.mit.edu/tech-companies-are-profiling-us-from-before-birth/) MIT Press Reader
 - [A Visual History of Interpretation for Image Recognition.](https://thegradient.pub/a-visual-history-of-interpretation-for-image-recognition/) The Gradient
 - [The Dark Past of Algorithms That Associate Appearance and Criminality.](https://www.americanscientist.org/article/the-dark-past-of-algorithms-that-associate-appearance-and-criminality) American Scientist
