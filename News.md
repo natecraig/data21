@@ -1,4 +1,5 @@
 # News and Optional Articles
+- Face and attention tracking: [Android](https://github.com/Pradyuman7/TrackEyes), [iOS](https://developer.apple.com/documentation/arkit/tracking_and_visualizing_faces)
 - [Palantir’s God’s-Eye View of Afghanistan.](https://www.wired.com/story/palantirs-gods-eye-view-of-afghanistan/) Wired
 - [This X Does Not Exist](https://thisxdoesnotexist.com)
 - [Tech Companies Are Profiling Us From Before Birth.](https://thereader.mitpress.mit.edu/tech-companies-are-profiling-us-from-before-birth/) MIT Press Reader
