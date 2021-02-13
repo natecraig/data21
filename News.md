@@ -1,4 +1,5 @@
 # News and Optional Articles
+- [Can AI Let Justice Be Done?](https://thegradient.pub/robot-judges/) The Gradient
 - [This is how we lost control of our faces.](https://www.technologyreview.com/2021/02/05/1017388/ai-deep-learning-facial-recognition-data-history/) MIT Technology Review
 - Face and attention tracking: [Android](https://github.com/Pradyuman7/TrackEyes), [iOS](https://developer.apple.com/documentation/arkit/tracking_and_visualizing_faces)
 - [Palantir’s God’s-Eye View of Afghanistan.](https://www.wired.com/story/palantirs-gods-eye-view-of-afghanistan/) Wired
