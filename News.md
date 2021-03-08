@@ -1,4 +1,5 @@
 # News and Optional Articles
+- [Excel Never Dies](https://www.notboring.co/p/excel-never-dies)
 - [“User Engagement” Is Code For “Addiction”](https://craigwritescode.medium.com/user-engagement-is-code-for-addiction-a2f50d36d7ac)
 - [Can AI Let Justice Be Done?](https://thegradient.pub/robot-judges/) The Gradient
 - [This is how we lost control of our faces.](https://www.technologyreview.com/2021/02/05/1017388/ai-deep-learning-facial-recognition-data-history/) MIT Technology Review
