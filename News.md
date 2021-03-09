@@ -1,4 +1,5 @@
 # News and Optional Articles
+- [AI learns from brain signals to create personalized attractive faces](https://newatlas.com/good-thinking/ai-learns-individuals-attractive-faces/)
 - [How Amazon Assistant Lets Amazon Track Your Every Move on the Web](https://palant.info/2021/03/08/how-amazon-assistant-lets-amazon-track-your-every-move-on-the-web/)
 - [Excel Never Dies](https://www.notboring.co/p/excel-never-dies)
 - [“User Engagement” Is Code For “Addiction”](https://craigwritescode.medium.com/user-engagement-is-code-for-addiction-a2f50d36d7ac)
