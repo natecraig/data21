@@ -1,4 +1,5 @@
 # News and Optional Articles
+- [How the New York Times A/B tests their headlines](https://blog.tjcx.me/p/new-york-times-ab-testing)
 - [AI learns from brain signals to create personalized attractive faces](https://newatlas.com/good-thinking/ai-learns-individuals-attractive-faces/)
 - [How Amazon Assistant Lets Amazon Track Your Every Move on the Web](https://palant.info/2021/03/08/how-amazon-assistant-lets-amazon-track-your-every-move-on-the-web/)
 - [Excel Never Dies](https://www.notboring.co/p/excel-never-dies)
