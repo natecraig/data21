@@ -34,7 +34,6 @@
 - [Our World in Data](https://ourworldindata.org)
 
 ## Example Datasets
-- [IBM HR analytics](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - [New car sales in Norway](https://www.kaggle.com/dmi3kno/newcarsalesnorway)
 - [Telco churn](https://www.kaggle.com/blastchar/telco-customer-churn)
 - [Survey of mental health in the tech industry](https://www.kaggle.com/osmi/mental-health-in-tech-survey)
